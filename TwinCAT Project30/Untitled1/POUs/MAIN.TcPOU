@@ -4,6 +4,8 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	toto : BOOL;
+	toto1 : BOOL;
+	fbtest : FB_test;
 END_VAR
 ]]></Declaration>
     <Implementation>
